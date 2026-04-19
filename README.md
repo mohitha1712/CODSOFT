@@ -24,7 +24,7 @@ Implemented an AI-powered Tic-Tac-Toe game where a human player competes against
 - Interactive command-line execution
 
 ### Output
-![Tic Tac Toe Output](tic_tac_toe/tic_output.png))
+![Tic Tac Toe output](tic_tac_toe/output.png))
 
 ## Task 3: Image Captioning AI
 Built an AI system that generates captions for images by combining Computer Vision and Natural Language Processing techniques.
@@ -36,7 +36,7 @@ Built an AI system that generates captions for images by combining Computer Visi
 - Modular implementation
 
 ### Output
-![Image Captioning Output](image_captioning/output.png)
+![Image Captioning output](image_captioning/output.png)
 
 ## Task 4: Recommendation System
 Developed a recommendation system that suggests items based on user preferences and similarity patterns.
@@ -48,7 +48,7 @@ Developed a recommendation system that suggests items based on user preferences 
 - Practical application of AI concepts
 
 ### Output
-![Recommendation Output](recommendation_system/output.png)
+![Recommendation output](recommendation_system/output.png)
 
 ## Task 5: Face Detection System
 Implemented a face detection system using OpenCV and Haar Cascade classifier. The system detects faces in images and performs additional operations.
@@ -60,7 +60,7 @@ Implemented a face detection system using OpenCV and Haar Cascade classifier. Th
 - Face blurring, cropping, and counting
 
 ### Output
-![Face Detection Output](face_detection/output.png)
+![Face Detection output](face_detection/output.png)
 
 ## Technologies Used
 - Python
