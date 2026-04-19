@@ -24,7 +24,7 @@ Implemented an AI-powered Tic-Tac-Toe game where a human player competes against
 - Interactive command-line execution
 
 ### Output
-![Tic Tac Toe Output](tic_tac_toe/output.png)
+![Tic Tac Toe Output](tic_tac_toe/tic_output.png))
 
 ## Task 3: Image Captioning AI
 Built an AI system that generates captions for images by combining Computer Vision and Natural Language Processing techniques.
