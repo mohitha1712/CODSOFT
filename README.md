@@ -11,9 +11,6 @@ Developed a chatbot using Python that responds to user inputs based on predefine
 - Handles basic conversational queries
 - Simple and structured implementation
 
-### Output
-![Chatbot Output](chatbot/chatbot_output.png)
-
 ## Task 2: Tic-Tac-Toe AI
 Implemented an AI-powered Tic-Tac-Toe game where a human player competes against an intelligent agent. The AI analyzes the game state and selects optimal moves.
 
@@ -22,9 +19,6 @@ Implemented an AI-powered Tic-Tac-Toe game where a human player competes against
 - Intelligent decision-making logic
 - Modular design with separate logic and interface
 - Interactive command-line execution
-
-### Output
-![Tic Tac Toe output](tic-tac-toe/output.png))
 
 ## Task 3: Image Captioning AI
 Built an AI system that generates captions for images by combining Computer Vision and Natural Language Processing techniques.
@@ -35,9 +29,6 @@ Built an AI system that generates captions for images by combining Computer Visi
 - Integration of vision and language models
 - Modular implementation
 
-### Output
-![Image Captioning output](imagecaptioning/output.png)
-
 ## Task 4: Recommendation System
 Developed a recommendation system that suggests items based on user preferences and similarity patterns.
 
@@ -47,9 +38,6 @@ Developed a recommendation system that suggests items based on user preferences 
 - Efficient data handling
 - Practical application of AI concepts
 
-### Output
-![Recommendation output](recommendationsystem/output.png)
-
 ## Task 5: Face Detection System
 Implemented a face detection system using OpenCV and Haar Cascade classifier. The system detects faces in images and performs additional operations.
 
@@ -58,9 +46,6 @@ Implemented a face detection system using OpenCV and Haar Cascade classifier. Th
 - Filtering using aspect ratio
 - Bounding box visualization
 - Face blurring, cropping, and counting
-
-### Output
-![Face Detection output](facedetectionandrecognition/output.png)
 
 ## Technologies Used
 - Python
