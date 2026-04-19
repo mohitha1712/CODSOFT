@@ -36,7 +36,7 @@ Built an AI system that generates captions for images by combining Computer Visi
 - Modular implementation
 
 ### Output
-![Image Captioning output](image captioning/output.png)
+![Image Captioning output](imagecaptioning/output.png)
 
 ## Task 4: Recommendation System
 Developed a recommendation system that suggests items based on user preferences and similarity patterns.
@@ -48,7 +48,7 @@ Developed a recommendation system that suggests items based on user preferences 
 - Practical application of AI concepts
 
 ### Output
-![Recommendation output](recommendation system/output.png)
+![Recommendation output](recommendationsystem/output.png)
 
 ## Task 5: Face Detection System
 Implemented a face detection system using OpenCV and Haar Cascade classifier. The system detects faces in images and performs additional operations.
@@ -60,7 +60,7 @@ Implemented a face detection system using OpenCV and Haar Cascade classifier. Th
 - Face blurring, cropping, and counting
 
 ### Output
-![Face Detection output](face detection and recognition/output.png)
+![Face Detection output](facedetectionandrecognition/output.png)
 
 ## Technologies Used
 - Python
